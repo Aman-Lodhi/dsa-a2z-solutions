@@ -2,7 +2,7 @@
 #include<vector>
 #include <unordered_map>
 using namespace std;
-
+// This code Time - O(N) Space - O(N) {O(N)+O(N)=O(N)}
 int highest(vector<int> &arr){
     int value = INT_MIN;
     int most = 0;
